@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNetCore20ConsoleApp", "TestNetCore20ConsoleApp\TestNetCore20ConsoleApp.csproj", "{5A7FFA12-84D2-428F-83A6-D78A468981E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A7FFA12-84D2-428F-83A6-D78A468981E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7FFA12-84D2-428F-83A6-D78A468981E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7FFA12-84D2-428F-83A6-D78A468981E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7FFA12-84D2-428F-83A6-D78A468981E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
