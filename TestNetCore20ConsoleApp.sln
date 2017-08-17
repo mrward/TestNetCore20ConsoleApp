@@ -1,5 +1,5 @@
 
-Microsoft Visual Studio Solution File, Format Version 12.00
+Microsoft Visual Studio Solution File, Format Version 15.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNetCore20ConsoleApp", "TestNetCore20ConsoleApp\TestNetCore20ConsoleApp.csproj", "{5A7FFA12-84D2-428F-83A6-D78A468981E8}"
 EndProject
